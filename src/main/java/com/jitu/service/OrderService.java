@@ -1,7 +1,8 @@
-package com.javatechie.service;
+package com.jitu.service;
 
-import com.javatechie.dto.Order;
-import com.javatechie.util.Mapper;
+import com.jitu.dto.Order;
+import com.jitu.util.Mapper;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Service;

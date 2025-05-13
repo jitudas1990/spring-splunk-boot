@@ -1,4 +1,4 @@
-package com.javatechie.dto;
+package com.jitu.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
