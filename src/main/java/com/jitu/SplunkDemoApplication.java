@@ -1,8 +1,9 @@
-package com.javatechie;
+package com.jitu;
 
-import com.javatechie.dto.Order;
-import com.javatechie.service.OrderService;
-import com.javatechie.util.Mapper;
+import com.jitu.dto.Order;
+import com.jitu.service.OrderService;
+import com.jitu.util.Mapper;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;

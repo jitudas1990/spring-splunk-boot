@@ -8,9 +8,9 @@
         <SplunkHttp
                 name="splunkhttp"
                 url="http://localhost:8088"
-                token="4c9fe121-76f5-4a70-bd4f-29167a66848e"
+                token="de80899f-bc1b-4b16-8842-0130fd74fc5c"
                 host="localhost"
-                index="order_api_dev"
+                index="product_api"
                 type="raw"
                 source="http-event-logs"
                 sourcetype="log4j"
