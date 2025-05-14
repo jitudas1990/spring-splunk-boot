@@ -12,7 +12,7 @@
                 host="localhost"
                 index="order"
                 type="raw"
-                source="http-event-logs"
+                source="http-event"
                 sourcetype="log4j"
                 messageFormat="text"
                 disableCertificateValidation="true">
