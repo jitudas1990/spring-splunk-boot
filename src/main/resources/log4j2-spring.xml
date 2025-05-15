@@ -10,9 +10,9 @@
                 url="http://localhost:8088"
                 token="de80899f-bc1b-4b16-8842-0130fd74fc5c"
                 host="localhost"
-                index="order"
+                index="order_api"
                 type="raw"
-                source="http-event"
+                source="http-event-logs"
                 sourcetype="log4j"
                 messageFormat="text"
                 disableCertificateValidation="true">
